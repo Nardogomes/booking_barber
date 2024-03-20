@@ -18,7 +18,7 @@ model User {
   image         String?
   accounts      Account[]
   sessions      Session[]
-  booking       Booking[]
+  bookings      Booking[]
 }
 
 model Barbershop {
