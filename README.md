@@ -9,3 +9,4 @@ Este projeto trata-se de uma aplicação web para agendamento de serviços de ba
 - Prisma
 - Tailwind CSS
 - Supabase
+- Shadcn/ui
